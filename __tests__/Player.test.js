@@ -32,4 +32,5 @@ test('gets inventory from player or returns false', () => {
 
     expect(player.getInventory()).toEqual(false);
 });
+console.log(new Potion);
 
